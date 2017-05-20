@@ -1,13 +1,7 @@
 ## Instrastrucutre as Code
 
-## AWS Elastic Beanstalk Service
+## [AWS Elastic Beanstalk Service](./aws.elasticbeanstalk.md)
 
-## AWS S3 Buckets
+## [AWS S3 Buckets](./aws.s3.bucket.md)
 
-## AWS RDS Database
-
-## Redis
-
-## EC2 Instance
-
-## 
+## [AWS RDS Database](./aws.rds.database.md)
