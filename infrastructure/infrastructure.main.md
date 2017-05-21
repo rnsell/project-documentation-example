@@ -1,4 +1,4 @@
-## Instrastrucutre as Code
+## Infrastructre as Code
 
 ## [AWS Elastic Beanstalk Service](./aws.elasticbeanstalk.md)
 

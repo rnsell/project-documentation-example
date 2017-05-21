@@ -14,3 +14,5 @@ The purpose of this repo is to provide one example of how to define a project an
 ## [Operational Workflows (Optional)](./operational_workflows/operational.workflows.main.md)
 
 ## [Product Roadmap (Optional)](./product_roadmap/product.roadmap.main.md)
+
+## [UI Design](./ui_ux/ui.ux.main.md)
