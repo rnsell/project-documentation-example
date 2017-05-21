@@ -1,6 +1,6 @@
 # Utility Libraries
 
-## LIbrary 1
+## Library 1
 ### Repository
 Repository Link
 ### Description
@@ -10,7 +10,7 @@ Description of library
 * Tech 2
 
 
-## LIbrary 1
+## Library 2
 ### Repository
 Repository Link
 ### Description
